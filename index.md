@@ -3,10 +3,11 @@ layout: project_page
 permalink: /
 
 title: Textured 3D Regenerative Morphing with 3D Diffusion Prior
-authors:
-    Songlin Yang, Yushi Lan, Honghua Chen, Xingang Pan
-Code: Coming Soon
-Paper: Arxiv
+authors: Songlin Yang, Yushi Lan, Honghua Chen, Xingang Pan
+affiliations: S-Lab, Nanyang Technological University, Singapore
+paper: https://arxiv.org/pdf/2312.10422.pdf
+code: https://songlin1998.github.io/planedict/
+
 ---
 
 <!-- Using HTML to center the abstract -->
