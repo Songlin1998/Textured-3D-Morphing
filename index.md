@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: Textured 3D Regenerative Morphing with 3D Diffusion Prior
-authors: [Songlin Yang](https://songlin1998.github.io/), [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)
+authors: Songlin Yang, Yushi Lan, Honghua Chen, Xingang Pan
 affiliations: S-Lab, Nanyang Technological University, Singapore
 paper: https://github.com/Songlin1998/Textured-3D-DiffMorpher
 code: https://github.com/Songlin1998/Textured-3D-DiffMorpher
