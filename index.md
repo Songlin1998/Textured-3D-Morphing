@@ -99,3 +99,17 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 ![](/static/image/ablation_3.gif) ![](/static/image/ablation_4.gif)
 ![](/static/image/ablation_5.gif) ![](/static/image/ablation_6.gif)
 
+<pre style="background-color:#f0f0f0; padding:10px;">
+<code>
+@misc{yang2025textured3dregenerativemorphing,
+      title={Textured 3D Regenerative Morphing with 3D Diffusion Prior}, 
+      author={Songlin Yang and Yushi Lan and Honghua Chen and Xingang Pan},
+      year={2025},
+      eprint={2502.14316},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.14316}, 
+}
+</code>
+</pre>
+
